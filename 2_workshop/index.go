@@ -26,4 +26,8 @@ func main() {
 
 	//constant
 	fmt.Println("TOKEN_KEY", TOKEN_KEY)
+
+	var name string
+
+	fmt.Printf("name is empty '%s' \n", name)
 }
