@@ -30,4 +30,7 @@ func main() {
 	var name string
 
 	fmt.Printf("name is empty '%s' \n", name)
+
+	fmt.Printf("Type 'ff' for Printf snippet")
+	fmt.Println("Type 'fp' for Println snippet")
 }
